@@ -3,6 +3,8 @@
 data/
 docker/
 images/
+
+datasets/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
